@@ -8,6 +8,7 @@ public class GameApplication {
         GameLevel gameLevel = new Beginner();
 
         MineSweeper mineSweeper = new MineSweeper(gameLevel);
+        mineSweeper.initialize();
         mineSweeper.run();
     }
 
