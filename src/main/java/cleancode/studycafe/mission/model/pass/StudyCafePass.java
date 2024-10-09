@@ -1,6 +1,4 @@
-package cleancode.studycafe.mission.model;
-
-import cleancode.studycafe.asis.model.StudyCafePassType;
+package cleancode.studycafe.mission.model.pass;
 
 public class StudyCafePass {
 
